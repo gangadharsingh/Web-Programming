@@ -1,0 +1,26 @@
+References:
+1. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwjjmt6LruffAhUIdysKHbiXC9cQFjABegQIARAG&url=https%3A%2F%2Fwww.thesitewizard.com%2Fcss%2Frectangular-box-border.shtml&usg=AOvVaw0J9iT8kbziRE-cOHKaWqtk
+
+2. https://www.w3schools.com/css/css_boxmodel.asp
+
+3. https://stackoverflow.com/questions/28458818/draw-a-circle-over-a-image-in-html5-and-javascript
+
+4. https://www.w3schools.com/howto/howto_css_circles.asp
+
+5. https://www.w3schools.com/howto/howto_css_rounded_images.asp
+
+6. https://www.w3schools.com/tags/tag_hr.asp
+
+7. https://www.w3schools.com/tags/tag_header.asp
+
+8. https://www.w3schools.com/bootstrap4/bootstrap_cards.asp
+
+9. https://www.w3schools.com/bootstrap/bootstrap_wells.asp
+
+10. https://www.w3schools.com/howto/howto_css_cards.asp
+
+11. https://www.w3schools.com/css/css3_shadows.asp
+
+12. https://www.google.com/search?client=firefox-b-ab&ei=Dn85XMRrje6tAauarbAD&q=light+green+hex+code&oq=light+green+hexa&gs_l=psy-ab.3.1..0.0..24406...0.0..0.0.0.......0......gws-wiz.lK_82LQ1otQ
+
+13. 

@@ -1,0 +1,32 @@
+#image {
+	border-radius: 50%;
+	border: 10px solid transparent;
+}
+#box {
+  /*background-color: lightblue;*/
+  border: 140px lightgreen
+  width: 100px;
+  padding: 25px;
+}
+#box2 {
+  width: 200px;
+  border: 2px solid green;
+  padding: 25px;
+  margin: 15px;
+}
+#hr {
+  display: block;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+#shadow {
+	border: 1px solid;
+	padding: 10px;
+	box-shadow: 15px 13px #90EE90
+	width: 50%;
+	top: 50%;
+}
